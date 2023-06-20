@@ -9,7 +9,7 @@ This application uses deep learning to classify diseases based on symptoms provi
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: `git clone https://github.com/vivekmenonm/symptom-to-disease.git`
 
 2. Install the required dependencies using the `requirements.txt` file:
 
