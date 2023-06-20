@@ -24,7 +24,7 @@ This application uses deep learning to classify diseases based on symptoms provi
 
 ## Customization
 
-- You can modify the model architecture or hyperparameters in `disease_model.py` to improve the accuracy or adjust the behavior of the model.
+- You can modify the model architecture or hyperparameters in `training.ipynb` to improve the accuracy or adjust the behavior of the model.
 
 - To customize the title and favicon, you can change the values in the `st.set_page_config()` function in `app.py`.
 
